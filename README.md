@@ -1,5 +1,5 @@
 
-# 🚀 Fine-tuning T5-small and BART-base for Environmental Research Generation
+#  Fine-tuning T5-small and BART-base for Environmental Research Generation
 
 
 This project showcases fine-tuning of `t5-small` and `facebook/bart-base` models to automatically generate research methodologies from concise climate science problem statements.  
@@ -37,7 +37,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 
 ---
 
-## 🛠 Quick Start
+##  Quick Start
 ```bash
 # Install dependencies
 pip install transformers datasets optuna
