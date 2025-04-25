@@ -1,0 +1,10 @@
+transformers==4.36.2
+datasets==2.16.0
+optuna==3.5.0
+torch==2.1.2
+scikit-learn==1.4.1
+evaluate==0.4.1
+pandas==2.2.1
+numpy==1.26.4
+matplotlib==3.8.3
+tqdm==4.66.2
