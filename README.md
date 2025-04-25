@@ -40,7 +40,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 ##  Quick Start
 ```bash
 # Install dependencies
-pip install transformers datasets optuna
+pip install requirements.txt
 
 # Clone the repository
 git clone https://github.com/psg0009/CMPSC-497-Final-Project-.git
