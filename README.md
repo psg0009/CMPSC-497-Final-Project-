@@ -20,7 +20,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 - `t5.ipynb` — Fine-tuning T5-small
 - `Facebookmodel.ipynb` — Fine-tuning BART-base
 - `requirements.txt`
-- Dataset samples (JSON)
+- `environmental_science_climatefever_dataset.json` - Dataset samples (JSON)
 - Hyperparameter tuning scripts (Optuna)
 - Evaluation metrics and results (ROUGE-L, BERTScore)
   
