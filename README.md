@@ -37,7 +37,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 
 ---
 
-## 🛠️ Quick Start
+## 🛠 Quick Start
 ```bash
 # Install dependencies
 pip install transformers datasets optuna
@@ -51,7 +51,7 @@ cd your-repo
 
 ---
 
-## 👥 Team
+##  Team
 - Parth Gosar  
 - Sahil Pardasani  
 *(CMPSC 497 - Spring 2025)*
