@@ -22,7 +22,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 - `requirements.txt`
 - `environmental_science_climatefever_dataset.json` - Dataset samples (JSON)
 - Hyperparameter tuning scripts (Optuna)
-- Evaluation metrics and results (ROUGE-L, BERTScore)
+- `evaluation_results.csv` - Evaluation metrics and results (ROUGE-L, BERTScore)
   
 ---
 
