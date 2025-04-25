@@ -7,7 +7,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 
 ---
 
-## 📚 Project Overview
+##  Project Overview
 - **Dataset:** Adapted ClimateFever dataset (~500 curated examples)
 - **Models Used:**  
   - `t5-small` → lightweight and fast prototyping  
@@ -16,7 +16,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 
 ---
 
-## 📂 Repository Contents
+##  Repository Contents
 - `t5.ipynb` — Fine-tuning T5-small
 - `Facebookmodel.ipynb` — Fine-tuning BART-base
 - Dataset samples (JSON)
@@ -31,7 +31,7 @@ It combines natural language generation (NLG) with environmental reasoning.
 | T5-small           | 0.421   | 0.824     | Best for lightweight prototyping   |
 | facebook/bart-base | 0.2068  | 0.8510    | Best for semantic richness         |
 
-✅ **Recommendation:**  
+ **Recommendation:**  
 - Use **BART-base** for higher-quality, semantic outputs.  
 - Use **T5-small** when training time or resources are limited.
 
@@ -58,4 +58,4 @@ cd your-repo
 
 ---
 
-> **License:** MIT License. Free to use with attribution. 🌎
+
