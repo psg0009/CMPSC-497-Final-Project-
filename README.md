@@ -43,8 +43,8 @@ It combines natural language generation (NLG) with environmental reasoning.
 pip install transformers datasets optuna
 
 # Clone the repository
-git clone https://github.com/your-repo-link.git
-cd your-repo
+git clone https://github.com/psg0009/CMPSC-497-Final-Project-.git
+cd https://github.com/psg0009/CMPSC-497-Final-Project-
 
 # Run the notebooks on Google Colab or locally
 ```
@@ -54,7 +54,7 @@ cd your-repo
 ##  Team
 - Parth Gosar  
 - Sahil Pardasani  
-*(CMPSC 497 - Spring 2025)*
+
 
 ---
 
