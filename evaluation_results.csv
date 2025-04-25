@@ -1,0 +1,3 @@
+Model,ROUGE-L,BERTScore,Notes
+T5-small,0.421,0.824,Best for lightweight prototyping
+facebook/bart-base,0.2068,0.851,Best for semantic richness
