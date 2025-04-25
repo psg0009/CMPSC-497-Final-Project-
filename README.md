@@ -19,10 +19,11 @@ It combines natural language generation (NLG) with environmental reasoning.
 ##  Repository Contents
 - `t5.ipynb` — Fine-tuning T5-small
 - `Facebookmodel.ipynb` — Fine-tuning BART-base
+- `requirements.txt`
 - Dataset samples (JSON)
 - Hyperparameter tuning scripts (Optuna)
 - Evaluation metrics and results (ROUGE-L, BERTScore)
-
+  
 ---
 
 ## 📈 Key Results
